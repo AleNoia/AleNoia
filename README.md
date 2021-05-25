@@ -1,5 +1,5 @@
 ## E aí, tudo bom? Sou o Igor Noia
-sim, meu sobrenome é Noia hehe
+Sou estudante de ciência da computação e sim, meu sobrenome é Noia hehe
 
 
    <div>
