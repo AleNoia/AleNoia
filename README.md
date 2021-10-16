@@ -10,9 +10,13 @@ Sou o Igor Noia, gosto bastante de Front-end e sinto muito prazer em trabalhar n
 
 ##  
 <div align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-        alt="javascript" width="40" height="40" /> </a><a href="https://www.python.org" target="_blank"> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /> 
+  </a>
+  <a href="https://www.python.org" target="_blank"> 
+      <img src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor" alt="javascript" width="40" height="40" /> 
+  </a>
+    <a href="https://www.python.org" target="_blank"> 
         <img src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor"
                 alt="python" width="40" height="40" /> 
     </a><a href="https://vuejs.org/" target="_blank"> <img
